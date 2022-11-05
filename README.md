@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/helge8"><img src="https://api.daily.dev/devcards/da4af2ba2ce74d808b5b13e6dc1b1e33.png?r=wtz" width="400" alt="Helge Eight's Dev Card"/></a>
+<a href="https://app.daily.dev/helge8"><img src="https://api.daily.dev/devcards/da4af2ba2ce74d808b5b13e6dc1b1e33.png?r=5m1" width="400" alt="Helge Eight's Dev Card"/></a>
 
 <!--
 **iohansson/iohansson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
