@@ -1,3 +1,7 @@
+[![iohansson github stats](https://github-readme-stats.vercel.app/api?username=iohansson&show_icons=true&theme=dracula&count_private=true)](https://github.com/iohansson)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iohansson&theme=dracula)](https://github.com/iohansson)
+
 <a href="https://app.daily.dev/helge8"><img src="https://api.daily.dev/devcards/da4af2ba2ce74d808b5b13e6dc1b1e33.png?r=5m1" width="400" alt="Helge Eight's Dev Card"/></a>
 
 <!--
